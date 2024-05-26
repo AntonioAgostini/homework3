@@ -85,7 +85,7 @@
         </post>
     </posts>
     <recensioni>
-        <recensione id_user="1" id_saga="1">
+        <recensione id_user="3" id_saga="1">
             <review>2</review>
         </recensione>
         <recensione id_user="2" id_saga="2">
